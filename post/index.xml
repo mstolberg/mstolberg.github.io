@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Maureen Stolberg, CIPM</title>
+    <link>https://mstolberg.github.io/post/</link>
+    <description>Recent content in Projects on Maureen Stolberg, CIPM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://mstolberg.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wine Prediction</title>
+      <link>https://mstolberg.github.io/post/chapter-8/</link>
+      <pubDate>Mon, 31 Aug 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://mstolberg.github.io/post/chapter-8/</guid>
+      <description>For this study, we will explore how binary logistic regression yields insight into the physicochemical composition unique to red and white wine. We intend to show through our analysis a detailed review of the data provided, a predictive model relationship for categorization of wine (red vs. white) as it relates to the given variables, and the reproductive process for a regression model that would allow a statistical model to predict the wine category.</description>
+    </item>
+    
+    <item>
+      <title>Predicting Attrition - A Driver for Creating Value, Realizing Strategy, and Refining key HR Processes</title>
+      <link>https://mstolberg.github.io/post/chapter-5/</link>
+      <pubDate>Mon, 24 Aug 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://mstolberg.github.io/post/chapter-5/</guid>
+      <description>In a knowledge driven economy, people or human capital are emerging as the key competitive differentiator in today’s “war for talent”. Understanding the drivers of attrition are crucial to address underlying organizational issues and develop remediating strategies as Human Capital” comprises 70 -90% of an organization’s cost.
+In this study, we provide a framework for maximizing a retention strategy’s ROI by leveraging insights derived from predicting to prioritizing retention investments. We will leverage established machine learning techniques to identify which employees are at risk of leaving and determine the key factors that drive their decision and use the results to maximize retention investment value by strategically managing attrition and optimizing costs.</description>
+    </item>
+    
+    <item>
+      <title>Predicting Seasonal Influenza - Forecasting with SARIMA</title>
+      <link>https://mstolberg.github.io/post/chapter-6/</link>
+      <pubDate>Tue, 23 Jun 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://mstolberg.github.io/post/chapter-6/</guid>
+      <description>The Influenza Division at the Centers for Disease Control seeks to predict the traits for influenza in the U.S. which varies greatly from season to season.   Models for influenza are used for medical preparedness as well as scientific research.   For this case study, we utilized the seasonal autoregressive integrated moving average (SARIMA) model to predict the number of new influenza cases reported each week consecutively for 13 weeks (equivalent to 1 business quarter) beginning April 1, 2020.</description>
+    </item>
+    
+    <item>
+      <title>Forecasting Time Series - Model Comparison</title>
+      <link>https://mstolberg.github.io/post/chapter-7/</link>
+      <pubDate>Sat, 11 Apr 2020 11:15:58 -0400</pubDate>
+      
+      <guid>https://mstolberg.github.io/post/chapter-7/</guid>
+      <description>Macroeconomic time series contain nonlinearities. Small changes in a few variables make predictions almost impossibly complex.
+There are several traditional linear forecasting techniques, such as AR, MA, ARIMA, and multivariate VAR have been used to effectively forecast economic time series. Newer techniques, such as deep learning neural networks have also been developed to forecast time series data and are being used as nonlinear forecast models.
+The objective of this study is to compare the performance of traditional models vs.</description>
+    </item>
+    
+    <item>
+      <title>Creating a Data-Driven Strategy for Entering New Markets</title>
+      <link>https://mstolberg.github.io/post/chapter-1/</link>
+      <pubDate>Tue, 31 Mar 2020 11:25:05 -0400</pubDate>
+      
+      <guid>https://mstolberg.github.io/post/chapter-1/</guid>
+      <description>An online beverage distributor is exploring the craft beer market in preparation for growth stage activities and has decided to invest heavily in market penetration for 2019.
+In this study, we perform EDA on existing company data in combination with third-party marketing data to:
+ Analyze the U.S. Craft Beer and Brewery Market data and provide insights on product and market dynamics. Recommend target geographies which can align to their 2020 Market Sourcing Strategy for existing product offerings, as well as potential cross-state distribution opportunities.</description>
+    </item>
+    
+    <item>
+      <title>Predict before you Purchase - Comparing Model Performance</title>
+      <link>https://mstolberg.github.io/post/chapter-4/</link>
+      <pubDate>Fri, 29 Nov 2019 11:14:48 -0400</pubDate>
+      
+      <guid>https://mstolberg.github.io/post/chapter-4/</guid>
+      <description>Defective cars often result when there are tampered odometers, mechanical issues the dealer is not able to address, issues with getting the vehicle title from the seller, or some other unforeseen problem. This is because many auctions do not allow the buyer to inspect the vehicle prior to purchase. Based on these conditions, approximately 12% or 1.2 million vehicles sold at auto auctions are classified as “defective”. Auto dealerships can reduce the likelihood of making bad, costly purchases, at wholesale auctions by using machine learning methods to predict which cars have a higher risk of being classified as defective before an auction takes place.</description>
+    </item>
+    
+    <item>
+      <title>Business Case Study: Macy&#39;s Retail Makeover</title>
+      <link>https://mstolberg.github.io/post/chapter-2/</link>
+      <pubDate>Fri, 29 Nov 2019 11:00:59 -0400</pubDate>
+      
+      <guid>https://mstolberg.github.io/post/chapter-2/</guid>
+      <description>Why &amp;ldquo;Digital&amp;rdquo; is the new black!
+Advances in technology innovation and shifts in consumer behavior has led consumers to shift spend from offline to online. In-store foot traffic continues to decline as shoppers look to time savings and price discounts by shopping online from the convenience of their home. As a result, Macys has seen a steady decline in profitability, driven by poor inventory turnover and force price markdowns.
+Year-to-date, more than 10 multichannel retailers have closed their 8,600 stores and 68 retailers have filed for bankruptcies.</description>
+    </item>
+    
+    <item>
+      <title>All you need to know about Time Series Database Systems</title>
+      <link>https://mstolberg.github.io/post/chapter-3/</link>
+      <pubDate>Sat, 31 Aug 2019 11:13:32 -0400</pubDate>
+      
+      <guid>https://mstolberg.github.io/post/chapter-3/</guid>
+      <description>In recent years, there has been an ever-increasing number of network-attached devices entering industry and our everyday lives. Many of these devices act as sensors, generating a periodic stream of time series data, in a multitude of domains. The compounding effects of data growth as it relates to time series data has created some unique problems for practitioners and application developers. So much so, that specialized solutions to these problems are now required.</description>
+    </item>
+    
+  </channel>
+</rss>
